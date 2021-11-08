@@ -1,3 +1,7 @@
+# Warning
+This app is not ready for production. It's my battlefield for learning Elixir and Phoenix. There is still room for improvement and refactoring.
+There is a frontend counterpart of this app developed in Vue.js, but the guy who got an idea to create this reservation system is not responding now - that's why I am submitting the backend code as free software.
+
 # Tipay
 
 To start your Phoenix server:
